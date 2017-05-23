@@ -1,0 +1,24 @@
+.col-sm-6 {
+  height: 200px;
+  background-color: #00ff00;
+}
+
+.col-sm-3 {
+  height: 200px;
+  background-color: #0000ff;
+}
+
+.col-sm-2 {
+  height: 75px;
+  background-color: #ffff00;
+}
+
+.col-sm-4 {
+  hieght: 75px;
+  background-color: #ffff00;
+}
+
+.col-sm-8 {
+  height: 75px;
+  background-color: #00ffff;
+}
