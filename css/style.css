@@ -1,0 +1,40 @@
+.container-fluid {
+  background-color: #ffff00;
+  padding: 100px 0px 50px;
+}
+
+header .col-sm-12 {
+  height: 150px;
+  background-color: #0000ff;
+  border: 1px solid #000;
+}
+
+nav .col-sm-12 {
+  height: 50px;
+  background-color: #008000;
+  border: 1px solid #000;
+}
+
+.col-sm-9 {
+  height: 200px;
+  background-color: #ff0000;
+  border: 1px solid #000;
+}
+
+.aside {
+  height: 200px;
+  background-color: #00ffff;
+  border: 1px solid #000;
+}
+
+.col-sm-3 {
+  height: 150px;
+  background-color: #ffa500;
+  border: 1px solid #000;
+}
+
+footer .col-sm-12 {
+  height: 50px;
+  background-color: #000;
+  border: 1px solid #000;
+}
